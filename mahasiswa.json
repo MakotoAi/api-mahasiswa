@@ -1,0 +1,22 @@
+[
+  { "id": 1, "nama": "Andi Saputra", "nim": "110122001", "jurusan": "Informatika" },
+  { "id": 2, "nama": "Budi Santoso", "nim": "110122002", "jurusan": "Sistem Informasi" },
+  { "id": 3, "nama": "Citra Lestari", "nim": "110122003", "jurusan": "Teknik Komputer" },
+  { "id": 4, "nama": "Dewi Anggraini", "nim": "110122004", "jurusan": "Manajemen Informatika" },
+  { "id": 5, "nama": "Eko Prasetyo", "nim": "110122005", "jurusan": "Informatika" },
+  { "id": 6, "nama": "Fajar Hidayat", "nim": "110122006", "jurusan": "Sistem Informasi" },
+  { "id": 7, "nama": "Gina Putri", "nim": "110122007", "jurusan": "Teknik Komputer" },
+  { "id": 8, "nama": "Hendra Wijaya", "nim": "110122008", "jurusan": "Informatika" },
+  { "id": 9, "nama": "Intan Permata", "nim": "110122009", "jurusan": "Manajemen Informatika" },
+  { "id": 10, "nama": "Joko Susilo", "nim": "110122010", "jurusan": "Sistem Informasi" },
+  { "id": 11, "nama": "Kiki Ramadhan", "nim": "110122011", "jurusan": "Informatika" },
+  { "id": 12, "nama": "Lia Amelia", "nim": "110122012", "jurusan": "Teknik Komputer" },
+  { "id": 13, "nama": "Mira Oktaviani", "nim": "110122013", "jurusan": "Sistem Informasi" },
+  { "id": 14, "nama": "Nanda Pratama", "nim": "110122014", "jurusan": "Informatika" },
+  { "id": 15, "nama": "Oki Firmansyah", "nim": "110122015", "jurusan": "Manajemen Informatika" },
+  { "id": 16, "nama": "Putri Maharani", "nim": "110122016", "jurusan": "Informatika" },
+  { "id": 17, "nama": "Randi Kurniawan", "nim": "110122017", "jurusan": "Teknik Komputer" },
+  { "id": 18, "nama": "Salsa Aulia", "nim": "110122018", "jurusan": "Sistem Informasi" },
+  { "id": 19, "nama": "Taufik Hidayat", "nim": "110122019", "jurusan": "Informatika" },
+  { "id": 20, "nama": "Yuni Kartika", "nim": "110122020", "jurusan": "Manajemen Informatika" }
+]
